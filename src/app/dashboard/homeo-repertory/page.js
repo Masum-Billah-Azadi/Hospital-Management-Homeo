@@ -326,8 +326,8 @@ const HomeoRepertorySetupPage = () => {
                     ))
                   ) : (
                     <div className="p-6 text-center text-gray-500 italic">
-                      এই ক্যাটাগরিতে এখনো কোনো লক্ষণ নেই। উপরের "লক্ষণ যোগ করুন"
-                      বাটনে ক্লিক করুন।
+                      এই ক্যাটাগরিতে এখনো কোনো লক্ষণ নেই। উপরের &quot;লক্ষণ যোগ
+                      করুন&quot; বাটনে ক্লিক করুন।
                     </div>
                   )}
                 </div>

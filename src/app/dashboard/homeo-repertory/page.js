@@ -409,7 +409,7 @@ const HomeoRepertorySetupPage = () => {
       >
         <DialogHeader className="border-b border-gray-200 dark:border-gray-800">
           <span className="text-blue-600 dark:text-blue-400">
-            "{addSympData.categoryName}"
+            &quot;{addSympData.categoryName}&quot;
           </span>
           -এ নতুন লক্ষণ যোগ করুন
         </DialogHeader>
